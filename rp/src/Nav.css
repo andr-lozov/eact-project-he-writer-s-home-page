@@ -1,0 +1,9 @@
+.navds {
+    display: flex;
+    
+    background-color: black;
+    width: 1200px;
+    color: white;
+    font-size: 21px;
+    margin: 0px 0px 0px 33px;
+}

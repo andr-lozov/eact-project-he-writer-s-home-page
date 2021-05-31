@@ -1,0 +1,20 @@
+.hads {
+    display: flex;
+    
+    background-color: black;
+    width: 1200px;
+}
+.imgs {
+  height: 35px;
+  margin: auto ;
+}
+.art {
+    src: 'https://code.s3.yandex.net/web-code/fonts/SuisseIntl-Bold.woff)';
+  
+    font-family: 'Suisse';
+    font-weight: bold;
+    color: white;
+    font-size: 32px;
+    text-align: center;
+    padding: auto;
+}

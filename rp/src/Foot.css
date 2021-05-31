@@ -1,0 +1,7 @@
+.foot {
+    display: flex;
+    
+    background-color: black;
+    width: 1200px;
+    color: white;
+}

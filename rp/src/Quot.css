@@ -1,0 +1,24 @@
+.quot {
+    display: column;
+    
+    background-color: black;
+    width: 1200px;
+    color: white;
+}
+.button {
+    width: 270px;
+    height: 55px;
+    padding-top: 10px;
+    box-sizing: border-box;
+    border: 1px solid white;
+    text-align: center;
+    font-size: 21px;
+    cursor: pointer;
+    transition: opacity 0.2s;
+}
+.button:hover {
+  opacity: 0.5;
+}
+.advice {
+  font-size: 45px;
+}
